@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "line-reader": "^0.4.0",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "textract": "^2.5.0"
   }
 }
